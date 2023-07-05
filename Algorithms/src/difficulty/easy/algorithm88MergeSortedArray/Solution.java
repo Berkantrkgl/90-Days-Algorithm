@@ -15,8 +15,9 @@ public class Solution {
         Arrays.sort(nums1);
         System.out.println(Arrays.toString(nums1));
 
-
+        
     }
+
 
     public static void main(String[] args) {
         int m = 3, n = 3;
