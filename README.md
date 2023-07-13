@@ -15,51 +15,32 @@ for each algorithm, one of which is my own.
 
 ### Dependencies
 
-* You must have Java 11 or higher.
-* 
+* Algorithms are written in Java programming language.
+
 
 ### Executing program
 
-*
+* It can be run with any editor
+* Get help from the commands below to install the project on your local device.
 
 ```
-
+-- Click the green button on the main page and copy the link.
+-- And then paste the copied link into git clone line as below;
+git clone https://github.com/USERNAME/REPOSITORY
 ```
 
 ## Help
 
 If there is a problem, you can contact me through the issue section. 
 In addition, if there is a place that is not understood for the 
-algorithms you 
-have studied or you would like me to explain, please do not hesitate.
-```
-command to run if program contains helper info
-```
+algorithms you have studied or you would like me to explain, 
+please do not hesitate.
+
 
 ## Authors
 
-Berkan Turkoglu [@trkgl_berkan](https://twitter.com/trkgl_berkan)
+* Berkan Turkoglu [@trkgl_berkan](https://twitter.com/trkgl_berkan)
 
-
-ex. 
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
