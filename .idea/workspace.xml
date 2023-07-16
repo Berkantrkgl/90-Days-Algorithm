@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="435d07d5-4c9e-4d94-8681-37c6070572c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/difficulty/easy/algorithm290/Solution290.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/difficulty/easy/algorithm242/Solution242.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +46,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution290">
+  <component name="RunManager" selected="Application.Solution242">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="difficulty.easy.algorithm169MajorityElement.Solution" />
       <module name="90-Days-Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="difficulty.easy.algorithm169MajorityElement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="difficulty.easy.algorithm242.Solution242" />
+      <module name="90-Days-Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="difficulty.easy.algorithm242.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution242" />
         <item itemvalue="Application.Solution290" />
         <item itemvalue="Application.Solution383" />
         <item itemvalue="Application.difficulty.easy.algorithm14LongestCommonPrefix.Solution" />
