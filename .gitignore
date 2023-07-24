@@ -7,7 +7,7 @@ Algorithms/.idea/vcs.xml
 Algorithms/.idea/modules.xml
 Algorithms/.idea/misc.xml
 
-.idea/workspace.xml
+*/.idea/workspace.xml
 
 # Generated files
 .idea/**/contentModel.xml

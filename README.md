@@ -18,30 +18,31 @@ for each algorithm, one of which is my own.
 
 ### Dependencies
 
-* You must have Java 11 or higher.
-* 
+* Algorithms are written in Java programming language.
+
 
 ### Executing program
 
-*
+* It can be run with any editor
+* Get help from the commands below to install the project on your local device.
 
 ```
-
+-- Click the green button on the main page and copy the link.
+-- And then paste the copied link into git clone line as below;
+git clone https://github.com/USERNAME/REPOSITORY
 ```
 
 ## Help
 
 If there is a problem, you can contact me through the issue section. 
 In addition, if there is a place that is not understood for the 
-algorithms you 
-have studied or you would like me to explain, please do not hesitate.
-```
-command to run if program contains helper info
-```
+algorithms you have studied or you would like me to explain, 
+please do not hesitate.
+
 
 ## Authors
 
-Berkan Turkoglu [@trkgl_berkan](https://twitter.com/trkgl_berkan)
+* Berkan Turkoglu [@trkgl_berkan](https://twitter.com/trkgl_berkan)
 
 
 ## Version History
