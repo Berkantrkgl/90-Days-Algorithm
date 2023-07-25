@@ -6,6 +6,7 @@ target/
 !**/src/test/**/out/
 
 */.idea/workspace.xml
+workspace.xml
 
 ### Eclipse ###
 .apt_generated
