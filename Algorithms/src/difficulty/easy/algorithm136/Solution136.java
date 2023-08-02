@@ -28,7 +28,7 @@ public class Solution136 {
         return 0;
     }
 
-    // I don't fully understand this but I'll try to understand. 
+    // I don't fully understand this but I'll try to understand.
     public static int anotherSingleNumber(int[] nums) {
         int res = 0;
         for(int num : nums) {
